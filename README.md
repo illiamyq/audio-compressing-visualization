@@ -2,7 +2,7 @@
 
 A Wordle-like browser guessing game built to practice React, Express & Docker.
 Card shows a startup [idea, funding, employees, and revenue] - user has to guess whether it succeeded or failed. 
-![alt text](image.png)
+![updated](image.png)
 
 ---
 
