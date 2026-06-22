@@ -1,0 +1,7 @@
+Wyjaśnianie teorii (DCT, psychoakustyka, skala Barksa, VAE, KL loss, Griffin-Lim, MDCT/AAC)
+Obliczenia i weryfikacja matematyki (rozmiary plików, SNR, kompresja %)
+Pisanie kodu React (interaktywna aplikacja: DCT demo, audio quiz, video placeholder)
+Implementacja DCT/IDCT w JavaScript (Web Audio API, canvas rendering)
+
+Odpowiadanie na pytania koncepcyjne (czym są latenty, dlaczego surowe próbki są złą dziedziną, dlaczego MusicGen działa a VAE nie generuje melodii)
+generowanie TEGO wideo i wideo wyjasniajacego zasade dzialania kompresji muzycznej

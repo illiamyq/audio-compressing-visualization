@@ -1,0 +1,12 @@
+public/
+  audio/
+    s1_original.wav
+    s1_dct_topk.wav
+    s1_dct_psycho.wav
+    s1_ae.wav
+    s1_dae.wav
+    s1_vae.wav
+    s2_... (analogicznie)
+    s3_...
+  video/
+    how_music_coding_works.mp4
